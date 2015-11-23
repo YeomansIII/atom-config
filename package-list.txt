@@ -1,0 +1,16 @@
+atom-beautify@0.28.19
+atom-solarized-dark-ui@0.25.0
+django-templates@0.5.0
+elementary-light-ui@0.26.2
+linter@1.11.2
+linter-csslint@1.1.0
+linter-flake8@1.9.2
+linter-jshint@1.2.1
+linter-jsonlint@1.0.1
+linter-scss-lint@2.4.0
+minimap@4.16.1
+open-in-browser@0.4.6
+pigments@0.19.0
+solarized-dark-apparent-ui-successor@0.2.0
+solarized-light-ui@0.1.0
+

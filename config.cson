@@ -1,0 +1,32 @@
+"*":
+  "exception-reporting":
+    userId: "825f17d1-85ac-7e75-790c-6df28b49ed9d"
+  welcome:
+    showOnStartup: false
+  pigments: {}
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    preferredLineLength: 60
+    showInvisibles: true
+  "atom-beautify":
+    _analyticsUserId: "b5f5b8c9-e4c6-4e2e-9e5e-83d580eaf59c"
+    html_wrap_line_length: 70
+    css_preserve_newlines: true
+  linter:
+    errorPanelHeight: 97
+  "linter-flake8":
+    maxLineLength: 100
+  "django-templates":
+    defaultToDjangoTemplatesForFilePathsContaining: [
+      "django-project"
+    ]
+  "linter-scss-lint": {}
+".django.html.text":
+  editor:
+    preferredLineLength: 60
